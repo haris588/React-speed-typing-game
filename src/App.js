@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useRef} from "react"
-import "styles.css"
+import './styles.css'
 
 function App() {
     const STARTING_TIME = 5
