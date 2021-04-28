@@ -2,4 +2,4 @@
 
 Speed typing game built in React using hooks. 
 
-https://cocky-borg-642480.netlify.app
+https://speed-typing-game-haris588.netlify.app
